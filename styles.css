@@ -13,3 +13,8 @@
 body {
     background-color: #1b1b1b;
 }
+
+.piece {
+    width: 45px;
+    height: 45px;
+}
